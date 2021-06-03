@@ -1,0 +1,47 @@
+body {
+	background: url(imgs/4.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+html {
+	width:100%;
+}
+
+.foot {
+	background: black;
+	width: 100%;
+}
+
+#content {
+	text-align: center;
+	padding-top: 20%;
+}
+
+#form1{
+	text-align: center;
+	align-content: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background: white;
+	color:black;
+	margin-bottom: 10%;
+	margin-top: 10%;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3 {
+	font-weight: 200;
+	font-size: 2.5em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
